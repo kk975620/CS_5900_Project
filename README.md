@@ -1,4 +1,4 @@
-# CS_5900_Project
+# CS_5900_Project Status
 I have divided my Interim status into 3 sections as I'm working on all them simultaneously
 #### Webscrapping
 I have done webscrapping on USGS website which is being dynamically populated. 
